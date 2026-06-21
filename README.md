@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=250&color=7C3AED](https://capsule-render.vercel.app/api?type=waving&height=250&color=B91C1C)&text=Alice%20Maria&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Cybersecurity%20Student&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=B91C1C&text=Alice%20Maria&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20Cybersecurity%20Student%20%E2%80%A2%20Systems%20Development%20Technician&descAlignY=60"/>
 
 </div>
 
@@ -44,7 +44,7 @@ Atualmente estou focada em:
 - Experiência do Usuário
 - Boas Práticas de Desenvolvimento
 
-<br>
+---
 
 <div align="center">
 
@@ -90,42 +90,42 @@ const alice = {
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 CyberGuard
+### 🏢 AdminFlow
 
-Ferramenta de análise de segurança web focada em vulnerabilidades, boas práticas e conscientização em segurança digital.
+Sistema administrativo moderno desenvolvido para gerenciamento de informações e processos internos.
+
+<br>
 
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
 
-<a href="LINK_DEPLOY_CYBERGUARD">
-<img src="https://img.shields.io/badge/LIVE_DEMO-B91C1C?style=for-the-badge"/>
-</a>
+<br><br>
 
-<a href="LINK_REPOSITORIO_CYBERGUARD">
-<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge"/>
+<a href="https://github.com/AliceKaleno/AdminFlow-frontend">
+<img src="https://img.shields.io/badge/VER_PROJETO-B91C1C?style=for-the-badge"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Portfólio
+### 🐶 PetShop
 
-Meu portfólio profissional desenvolvido para apresentar projetos, habilidades e experiência.
+Website responsivo desenvolvido para divulgação de serviços e produtos para pets.
+
+<br>
 
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
 
-<a href="https://portifolio-as.vercel.app">
-<img src="https://img.shields.io/badge/LIVE_DEMO-B91C1C?style=for-the-badge"/>
-</a>
+<br><br>
 
-<a href="LINK_REPOSITORIO_PORTFOLIO">
-<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge"/>
+<a href="https://github.com/AliceKaleno/petshop">
+<img src="https://img.shields.io/badge/VER_PROJETO-B91C1C?style=for-the-badge"/>
 </a>
 
 </td>
@@ -134,36 +134,42 @@ Meu portfólio profissional desenvolvido para apresentar projetos, habilidades e
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏋️ Fitness Pro
+### 💅 NailProject
 
-Landing Page moderna para academia, desenvolvida com foco em conversão e responsividade.
+Landing Page profissional desenvolvida para nail designer.
+
+<br>
 
 ![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
 
-<a href="LINK_DEPLOY_FITNESS">
-<img src="https://img.shields.io/badge/LIVE_DEMO-B91C1C?style=for-the-badge"/>
-</a>
+<br><br>
 
-<a href="LINK_REPOSITORIO_FITNESS">
-<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge"/>
+<a href="https://github.com/AliceKaleno/NailProject">
+<img src="https://img.shields.io/badge/VER_PROJETO-B91C1C?style=for-the-badge"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Projeto Java
+### 🏋️ Fitness Pro
 
-Sistema desenvolvido utilizando Java durante a formação técnica.
+Landing Page moderna para academia com foco em experiência do usuário.
 
-![Java](https://img.shields.io/badge/JAVA-black?style=for-the-badge)
+<br>
 
-<a href="LINK_REPOSITORIO_JAVA">
-<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge"/>
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
+
+<br><br>
+
+<a href="https://github.com/AliceKaleno/fitnesspro">
+<img src="https://img.shields.io/badge/VER_PROJETO-B91C1C?style=for-the-badge"/>
 </a>
 
 </td>
@@ -172,11 +178,13 @@ Sistema desenvolvido utilizando Java durante a formação técnica.
 
 </table>
 
+---
+
 # { tech_stack }
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,mysql,git,github,vscode,figma" />
 
 </div>
 
@@ -223,7 +231,7 @@ Se você chegou até aqui, provavelmente temos algo para construir juntos. 🚀
 <br><br>
 
 <a href="https://www.linkedin.com/in/alice-maria-da-silva/">
-<img src="https://img.shields.io/badge/LINKEDIN-Alice_Maria-7C3AED?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Alice_Maria-B91C1C?style=for-the-badge&labelColor=000000"/>
 </a>
 
 <a href="https://portifolio-as.vercel.app/">
